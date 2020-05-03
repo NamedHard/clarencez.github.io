@@ -15,11 +15,9 @@ keywords: 爱编码，爱生活
 encoding: "utf-8"
 favicon: favicon.png 
 
-repository: clarencez/clarencez.github.io
-github_url: https://github.com/clarencez
-cnblog_url: http://www.cnblogs.com/clarencez
-url: http://www.clarencez.xyz
-enforce_ssl: clarencez.com
+repository: namedhard/namedhard.github.io
+github_url: https://github.com/namedhard
+url: http://namedhard.github.io
 
 ## Gem
 plugins:
